@@ -36,7 +36,9 @@ Direction Pins: Connected to Arduino pins 9 and 10
 
 # Code Explanation
 Libraries
+
 Servo.h: Controls the servo motor.
+
 NewPing.h: Provides functionality for the ultrasonic sensor.
 
 # Pin Definitions
