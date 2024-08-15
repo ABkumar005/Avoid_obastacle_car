@@ -4,9 +4,13 @@ This project utilizes an Arduino to control a pair of motors and a servo using i
 
 # Components Used
 Arduino Board: Any Arduino board (e.g., Arduino Uno, Nano)
+
 Ultrasonic Sensor: HC-SR04
+
 Servo Motor: Standard servo motor
+
 DC Motors: Two DC motors
+
 Motor Driver: L298N or similar motor driver
 
 # Wiring and Connectors: For connecting components
