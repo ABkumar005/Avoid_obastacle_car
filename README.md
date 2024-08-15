@@ -24,22 +24,31 @@ Right Motor:
 PWM Pin: Connected to Arduino pin 5
 
 Direction Pins: Connected to Arduino pins 7 and 8
+
 Left Motor:
 PWM Pin: Connected to Arduino pin 6
+
 Direction Pins: Connected to Arduino pins 9 and 10
-Code Explanation
+
+# Code Explanation
 Libraries
 Servo.h: Controls the servo motor.
 NewPing.h: Provides functionality for the ultrasonic sensor.
 
 # Pin Definitions
 SERVO_PIN: Pin connected to the servo motor.
+
 ULTRASONIC_SENSOR_TRIG: Trigger pin for the ultrasonic sensor.
+
 ULTRASONIC_SENSOR_ECHO: Echo pin for the ultrasonic sensor.
+
 MAX_REGULAR_MOTOR_SPEED: Maximum speed for normal motor operation.
+
 MAX_MOTOR_ADJUST_SPEED: Speed for adjusting motor direction when an obstacle is detected.
+
 DISTANCE_TO_CHECK: Distance threshold for obstacle detection.
-Setup Function
+
+# Setup Function
 Initializes motor and servo pins.
 Sets the initial position of the servo to 90 degrees.
 Stops the motors initially.
