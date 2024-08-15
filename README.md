@@ -22,6 +22,7 @@ Motors:
 
 Right Motor:
 PWM Pin: Connected to Arduino pin 5
+
 Direction Pins: Connected to Arduino pins 7 and 8
 Left Motor:
 PWM Pin: Connected to Arduino pin 6
