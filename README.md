@@ -1,4 +1,7 @@
 # Arduino Motor and Servo Control with Ultrasonic Sensor
+
+https://github.com/user-attachments/assets/fefa56e3-aa57-40d2-9d4e-9eddebcd5770
+
 # Overview
 This project utilizes an Arduino to control a pair of motors and a servo using input from an ultrasonic sensor. The ultrasonic sensor measures the distance to obstacles, and based on this distance, the motors and servo adjust the robot's direction to navigate around obstacles.
 
